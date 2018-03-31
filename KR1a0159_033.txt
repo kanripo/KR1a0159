@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 大易擇言
-#+DATE: 2018-03-31 09:02:58.908436
+#+DATE: 2018-03-31 09:02:59.270436
 #+PROPERTY: ID KR1a0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷三十三
 <pb:KR1a0159_WYG_033-1a>¶
 欽定四庫全書¶
@@ -229,7 +229,7 @@
 (正義)潘氏天錫曰九二剛中力足以濟者也然身在坎中¶
 未可以大用故曳其車輪不敢輕進待時而動乃¶
 為吉也不量時度力而勇于赴難適以敗事矣(此説)¶
-(雖有所未盡而逺勝𫝊義)
+(雖有所未盡而逺勝傳義)
 <pb:KR1a0159_WYG_033-13b>¶
 (存疑)紫陽朱子曰以九二應六五而居柔得中為能自止¶
 而不進得為下之正也故其象占如此¶
